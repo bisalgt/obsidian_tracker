@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"3b67f9564e571e80","x":-380,"y":340,"width":700,"height":460,"type":"text","text":"![[Dashboard]]"},
+		{"id":"897a2437683e2b52","x":333,"y":340,"width":707,"height":460,"type":"text","text":"![[Applied Companies Overview]]"}
+	],
+	"edges":[]
+}

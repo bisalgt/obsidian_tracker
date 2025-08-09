@@ -1,0 +1,31 @@
+**.pdf
+**.jpeg
+**/.DS_Store
+
+.obsidian/**
+
+# Obsidian-Systemdateien
+.obsidian/cache
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/plugins/obsidian-git/data.json
+.obsidian/appearance.json
+
+# Plugin-Cache & -Datenordner
+.obsidian/plugins/*/data.json
+.obsidian/plugins/*/cache.json
+
+# Backups von Plugins
+.obsidian/plugins/obsidian-git/backup/*
+.obsidian/plugins/*/backup/*
+
+# Betriebssystem-Dateien
+.DS_Store
+Thumbs.db
+
+# Temporäre Dateien
+*.tmp
+~$*
+
+# Optional: Anhänge ignorieren, falls sie groß sind
+# Attachments/*

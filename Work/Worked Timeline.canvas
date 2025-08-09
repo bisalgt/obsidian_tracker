@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"bdab2e2169f1c188","x":220,"y":-220,"width":432,"height":640,"type":"text","text":"![[Iimori]]"},
+		{"id":"f3b7f4fd498521c9","type":"text","text":"![[TripInn]]","x":-380,"y":-220,"width":540,"height":640}
+	],
+	"edges":[]
+}
